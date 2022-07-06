@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VUSB Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=U5-0
+Removed Pin From Net: NetName=VUSB Pin=U7-3
+Removed Pin From Net: NetName=VUSB Pin=USB_TTL1-1
+Added Component: Designator=R100(R_0805)
+Added Component: Designator=SW1(三脚拨动开关SS12D00G4)
+Added Pin To Net: NetName=VBTN Pin=R100-1
+Added Pin To Net: NetName=VUSB Pin=SW1-1
+Change Net Name : Old Net Name=NetJTAG?_15 New Net Name=NetJTAG_15
+Change Net Name : Old Net Name=VUSB New Net Name=VCHRGING
+Added Pin To Net: NetName=NetR100_2 Pin=R100-2
+Added Pin To Net: NetName=NetR100_2 Pin=SW1-3
+Added Net: Name=NetR100_2
+Added Pin To Net: NetName=VUSB Pin=C24-2
+Added Pin To Net: NetName=VUSB Pin=SW1-2
+Added Pin To Net: NetName=VUSB Pin=U7-3
+Added Pin To Net: NetName=VUSB Pin=USB_TTL1-1
+Added Net: Name=VUSB
+Added Member To Class: ClassName=POWER Member=Component R100 0R
+Added Member To Class: ClassName=POWER Member=Component SW1 switch

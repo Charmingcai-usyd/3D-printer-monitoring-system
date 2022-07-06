@@ -1,0 +1,9 @@
+Added Component: Designator=R100(R_0805)
+Added Component: Designator=SW1(三脚拨动开关SS12D00G4)
+Added Pin To Net: NetName=VBTN Pin=R100-1
+Added Pin To Net: NetName=NetR100_2 Pin=R100-2
+Added Pin To Net: NetName=VCHRGING Pin=SW1-1
+Added Pin To Net: NetName=VUSB Pin=SW1-2
+Added Pin To Net: NetName=NetR100_2 Pin=SW1-3
+Added Member To Class: ClassName=POWER Member=Component R100 0R
+Added Member To Class: ClassName=POWER Member=Component SW1 switch

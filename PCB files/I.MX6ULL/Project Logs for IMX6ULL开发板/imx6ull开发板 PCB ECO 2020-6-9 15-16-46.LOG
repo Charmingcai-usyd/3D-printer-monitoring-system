@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=JP1 NewDesignator=ATK_MODULE
+Change Component Designator: OldDesignator=P1 NewDesignator=SDIO_WIFI
+Change Component Designator: OldDesignator=P3 NewDesignator=CAMERA

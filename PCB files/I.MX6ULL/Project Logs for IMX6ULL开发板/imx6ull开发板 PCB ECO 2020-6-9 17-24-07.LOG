@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DCDC_5V Pin=DS1-1
+Added Component: Designator=R50(R_0603P)
+Added Pin To Net: NetName=DCDC_5V Pin=R50-2
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R50-1
+Added Net: Name=NetDS1_1
+Added Member To Class: ClassName=POWER Member=Component R50 1K

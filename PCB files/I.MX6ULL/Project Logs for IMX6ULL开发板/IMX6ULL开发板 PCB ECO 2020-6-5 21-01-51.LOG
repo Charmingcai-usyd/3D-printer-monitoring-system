@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=VBTN Pin=C?-1
+Removed Pin From Net: NetName=VDD_COIN_3V Pin=C?-2
+Removed Pin From Net: NetName=NetD?_1 Pin=D?-1
+Removed Pin From Net: NetName=NetD?_2 Pin=D?-2
+Removed Pin From Net: NetName=NetDS?_1 Pin=DS?-1
+Removed Pin From Net: NetName=NetDS?_2 Pin=DS?-2
+Removed Pin From Net: NetName=VBTN Pin=K?-2
+Removed Pin From Net: NetName=NetD?_2 Pin=K?-3
+Removed Pin From Net: NetName=VBTN Pin=R?-1
+Removed Pin From Net: NetName=PMIC_ON_REQ Pin=R?-2
+Removed Pin From Net: NetName=DCDC_5V Pin=U?-3
+Removed Pin From Net: NetName=NetR?_2 Pin=U?-4
+Removed Pin From Net: NetName=NetR?_1 Pin=U?-5
+Added Component: Designator=D1(DIODE 3*5.3)
+Added Component: Designator=D?(DIODE 3*5.3)
+Added Component: Designator=D?(DIODE 3*5.3)
+Added Component: Designator=L2(CD74 µç¸Ð   7*7*4mmÌùÆ¬)
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=VBTN Pin=C?-1
+Added Pin To Net: NetName=VBTN Pin=C?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_5V Pin=C?-2
+Added Pin To Net: NetName=DCDC_5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=VBTN Pin=C?-2
+Added Pin To Net: NetName=VDD_COIN_3V Pin=C?-2
+Added Pin To Net: NetName=8V4+ Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=D?-2
+Added Pin To Net: NetName=DCDC_5V Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=DCDC_5V Pin=DS?-1
+Added Pin To Net: NetName=NetDS?_1 Pin=DS?-1
+Added Pin To Net: NetName=GND Pin=DS?-2
+Added Pin To Net: NetName=NetDS?_2 Pin=DS?-2
+Added Pin To Net: NetName=NetD?_2 Pin=K?-1
+Added Pin To Net: NetName=NetC?_2 Pin=K?-2
+Added Pin To Net: NetName=VBTN Pin=K?-2
+Added Pin To Net: NetName=DCDC_5V Pin=K?-3
+Added Pin To Net: NetName=DCDC_3V3 Pin=L?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=VBTN Pin=R?-1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=PMIC_ON_REQ Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=DCDC_5V Pin=U?-3
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Pin To Net: NetName=NetR?_1 Pin=U?-5
+Added Pin To Net: NetName=NetR?_2 Pin=U?-5
+Added Pin To Net: NetName=NetI.MX6UL_CORE?_J2_1 Pin=I.MX6UL_CORE?-J2_1
+Added Pin To Net: NetName=NetI.MX6UL_CORE?_J2_1 Pin=I.MX6UL_CORE?-J2_2
+Added Net: Name=NetI.MX6UL_CORE?_J2_1
+Added Pin To Net: NetName=NetI.MX6UL_CORE?_J2_59 Pin=I.MX6UL_CORE?-J2_59
+Added Pin To Net: NetName=NetI.MX6UL_CORE?_J2_59 Pin=I.MX6UL_CORE?-J2_60
+Added Net: Name=NetI.MX6UL_CORE?_J2_59
+Added Room: Name=CORE
+Added Room: Name=POWER

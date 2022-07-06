@@ -1,0 +1,8 @@
+Added Component: Designator=AHT10(AHT10 ÎÂÊª¶È´«¸ÐÆ÷)
+Added Pin To Net: NetName=GND Pin=AHT10-1
+Added Pin To Net: NetName=I2C1_SDA Pin=AHT10-2
+Added Pin To Net: NetName=I2C1_SCL Pin=AHT10-3
+Added Pin To Net: NetName=DCDC_3V3 Pin=AHT10-4
+Added Pin To Net: NetName=GND Pin=AHT10-5
+Added Member To Class: ClassName=DEVICE2 Member=Component AHT10
+Added Member To Class: ClassName=POWER Member=Component DC_IN1 POWER

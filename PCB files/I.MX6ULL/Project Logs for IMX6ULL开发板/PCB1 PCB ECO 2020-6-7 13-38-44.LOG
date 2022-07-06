@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=VBTN Pin=K?-2
+Removed Pin From Net: NetName=DCDC_5V Pin=K?-3
+Added Pin To Net: NetName=8V4+ Pin=I.MX?-J1_60
+Added Pin To Net: NetName=NetC?_2 Pin=K?-2
+Added Pin To Net: NetName=VBTN Pin=K?-2
+Added Pin To Net: NetName=DCDC_5V Pin=K?-3
+Added Member To Class: ClassName=POWER Member=Component BAT? 8.4V
+Added Member To Class: ClassName=POWER Member=Component C? 10uF
+Added Member To Class: ClassName=POWER Member=Component C? Cap Pol1
+Added Member To Class: ClassName=POWER Member=Component C? 104
+Added Member To Class: ClassName=POWER Member=Component C? 104
+Added Member To Class: ClassName=POWER Member=Component C? 103
+Added Member To Class: ClassName=POWER Member=Component C? 104
+Added Member To Class: ClassName=POWER Member=Component C? Cap Pol1
+Added Member To Class: ClassName=POWER Member=Component C? 104
+Added Member To Class: ClassName=POWER Member=Component C? 103
+Added Member To Class: ClassName=POWER Member=Component C? 22UF
+Added Member To Class: ClassName=POWER Member=Component C? 104
+Added Member To Class: ClassName=POWER Member=Component C? 104
+Added Member To Class: ClassName=POWER Member=Component C? 1uF
+Added Member To Class: ClassName=POWER Member=Component C? Cap2
+Added Member To Class: ClassName=POWER Member=Component C? 104
+Added Member To Class: ClassName=POWER Member=Component C? 22uF
+Added Member To Class: ClassName=POWER Member=Component C? 22uF
+Added Member To Class: ClassName=POWER Member=Component C? 1uF
+Added Member To Class: ClassName=POWER Member=Component D? SS34
+Added Member To Class: ClassName=POWER Member=Component D? SS34
+Added Member To Class: ClassName=POWER Member=Component D? SMBJ3.3A
+Added Member To Class: ClassName=POWER Member=Component D? SMBJ5.0A
+Added Member To Class: ClassName=POWER Member=Component DS? RED
+Added Member To Class: ClassName=POWER Member=Component K? BUTTON
+Added Member To Class: ClassName=POWER Member=Component L? 2.2uH
+Added Member To Class: ClassName=POWER Member=Component L? 4.7uH
+Added Member To Class: ClassName=POWER Member=Component R? 6K8
+Added Member To Class: ClassName=POWER Member=Component R? 100K
+Added Member To Class: ClassName=POWER Member=Component R? 270K
+Added Member To Class: ClassName=POWER Member=Component R? 200R
+Added Member To Class: ClassName=POWER Member=Component R? 5R
+Added Member To Class: ClassName=POWER Member=Component R? 1K
+Added Member To Class: ClassName=POWER Member=Component R? 49.9k
+Added Member To Class: ClassName=POWER Member=Component R? 15K
+Added Member To Class: ClassName=POWER Member=Component R? 1K
+Added Member To Class: ClassName=POWER Member=Component R? 84.5k
+Added Member To Class: ClassName=POWER Member=Component R? 15K
+Added Member To Class: ClassName=POWER Member=Component R? 100K
+Added Member To Class: ClassName=POWER Member=Component U? CS5080
+Added Member To Class: ClassName=POWER Member=Component U? DC JW5060T_6
+Added Room: Name=CORE
+Added Room: Name=POWER

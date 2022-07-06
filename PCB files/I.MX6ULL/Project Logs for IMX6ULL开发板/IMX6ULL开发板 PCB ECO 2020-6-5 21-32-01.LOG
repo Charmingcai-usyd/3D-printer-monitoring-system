@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=VBTN Pin=C?-1
+Removed Pin From Net: NetName=VDD_COIN_3V Pin=C?-2
+Removed Pin From Net: NetName=NetDS?_1 Pin=DS?-1
+Removed Pin From Net: NetName=NetDS?_2 Pin=DS?-2
+Removed Pin From Net: NetName=NetD?_2 Pin=K?-1
+Removed Pin From Net: NetName=DCDC_3V3 Pin=L?-2
+Removed Pin From Net: NetName=VBTN Pin=R?-1
+Removed Pin From Net: NetName=PMIC_ON_REQ Pin=R?-2
+Change Component DesignItemId : Designator=K? Old DesignItemId=PKEY New DesignItemId=BUTTON
+Change Component DesignItemId : Designator=D? Old DesignItemId=SMBJ New DesignItemId=D
+Change Component Footprint: Designator=D? Old Footprint=SMBJ New Footprint=DIODE 3*5.3
+Change Component Comment : Designator=K? Old Comment=KEY1X3 New Comment=BUTTON
+Change Component Comment : Designator=D? Old Comment=SMBJ5.0A New Comment=SS34
+Change Component Library : Designator=I.MX6UL_CORE? Old Library=IMX6UL_ALPHA(µ×°å)_V2.0.IntLib New Library=ZZW·â×°»ã×Ü.SCHLIB
+Change Component Library : Designator=K? Old Library=IMX6UL_ALPHA(µ×°å)_V2.0.IntLib New Library=ZZW·â×°»ã×Ü.SCHLIB
+Added Component: Designator=D1(DIODE 3*5.3)
+Added Component: Designator=D?(DIODE 3*5.3)
+Added Component: Designator=D?(SMBJ)
+Added Component: Designator=K?(PKEY)
+Added Component: Designator=L2(CD74 µç¸Ð   7*7*4mmÌùÆ¬)
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=VBTN Pin=C?-1
+Added Pin To Net: NetName=VBTN Pin=C?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_5V Pin=C?-2
+Added Pin To Net: NetName=DCDC_5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=VBTN Pin=C?-2
+Added Pin To Net: NetName=VDD_COIN_3V Pin=C?-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetC3_2 Pin=D1-2
+Added Pin To Net: NetName=8V4+ Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=D?-2
+Added Pin To Net: NetName=DCDC_5V Pin=D?-2
+Added Pin To Net: NetName=DCDC_5V Pin=DS?-1
+Added Pin To Net: NetName=NetDS?_1 Pin=DS?-1
+Added Pin To Net: NetName=GND Pin=DS?-2
+Added Pin To Net: NetName=NetDS?_2 Pin=DS?-2
+Added Pin To Net: NetName=GND Pin=I.MX6UL_CORE?-J2_59
+Added Pin To Net: NetName=GND Pin=I.MX6UL_CORE?-J2_60
+Added Pin To Net: NetName=NetD?_2 Pin=K?-1
+Added Pin To Net: NetName=NetC?_2 Pin=K?-2
+Added Pin To Net: NetName=VUSB Pin=L2-1
+Added Pin To Net: NetName=NetD1_1 Pin=L2-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=L?-2
+Added Pin To Net: NetName=VBTN Pin=L?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=VBTN Pin=R?-1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=PMIC_ON_REQ Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=DCDC_5V Pin=U?-3
+Added Pin To Net: NetName=NetR?_1 Pin=U?-5
+Change Net Name : Old Net Name=NetI.MX6UL_CORE?_J2_1 New Net Name=VCC
+Added Member To Class: ClassName=POWER Member=Component D1 SS34
+Added Member To Class: ClassName=POWER Member=Component L2 2.2uH

@@ -1,0 +1,75 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~IMX6ULL开发板.PrjPCB|ReportField=ProjectFullPath~E:\我的工程项目\imx6ull开发板\PCB\IMX6ULL开发板.PrjPCB|ReportField=Title~Bill of Materials For Project [IMX6ULL开发板.PrjPCB] (PCB Document : imx6ull开发板.PcbDoc)|ReportField=TotalQuantity~188|ReportField=ReportTime~17:13:05|ReportField=ReportDate~2020/6/12|ReportField=ReportDateTime~2020/6/12 17:13:05|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2020/6/12|ReportField=CurrentTime~17:11:29|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\我的工程项目\imx6ull开发板\PCB\CONNECT.SchDoc|ReportField=DocumentName~CONNECT.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2020/6/9|ReportField=Organization~|ReportField=ProjectName~IMX6ULL开发板.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~IMX6ULL开发板.PrjPCB|ReportField=DataSourceFullPath~E:\我的工程项目\imx6ull开发板\PCB\IMX6ULL开发板.PrjPCB|ReportField=PCBDataSourceFileName~imx6ull开发板.PcbDoc|ReportField=PCBDataSourceFullPath~E:\我的工程项目\imx6ull开发板\PCB\imx6ull开发板.PcbDoc
+1|RS232/RS485|3*2P接插件|1, 2, JP2, UART3|HDR-3X2|Header 3X2|4
+2|AHT10||AHT10|AHT10 温湿度传感器|AHT10 温湿度传感器|1
+3|ATK MODULE|ATK-HC05|ATK_MODULE|HEAD6|ATK-HC05|1
+4|1220|微型电池|BAT1|CR1220_B|CR-3V|1
+5|BEEP|蜂鸣器|BEEP1|BEEP 5x9x5.5|BEEP|1
+6|BMP280||BMP1|BMP280|BMP280|1
+7|CSW-8P|8路编码开关|BOOT_CFG1|CSW DIP-8P|CSW-8P|1
+8|104||C1, C2, C3, C7, C9, C10, C12, C16, C22, C25, C27, C28, C29, C30, C31, C32, C33, C34, C36, C38, C39, C41, C42, C43, C46, C47, C48, C49, C50, C53|C_0603P|C|30
+9|103||C4, C6|C_0603P|C|2
+10|Cap Pol1|Polarized Capacitor (Radial)|C5, C8|CAP2.54M|Cap Pol1|2
+11|22UF||C11, C13, C17, C18|C_0603P|C|4
+12|Cap2|Capacitor|C14|CAP2.54M|Cap2|1
+13|1uF||C15, C19, C37, C44, C45|C_0603P|C|5
+14|10uF||C20|C_0805|C|1
+15|10uf||C21, C23, C24, C26, C35|C_0603P|C|5
+16|106||C40|C_0603P|C|1
+17|102||C51|C_0603P|C|1
+18|Header 9X2|Header, 9-Pin, Dual row|CAMERA|HDR2X9|Header 9X2|1
+19|CAN||CAN1|KF301-2P|HEAD2|1
+20|SS34|1N4148|D1, D2, D5|DIODE 3*5.3|D|3
+21|SMBJ5.0A|TVS|D3|SMBJ|SMBJ|1
+22|SMBJ3.3A|TVS|D4|SMBJ|SMBJ|1
+23|RB521S-30|1N4148|D6, D7|DIODE 3*5.3|D|2
+24|POWER|低压电源接口|DC_IN1|DC10B|P-DC|1
+25|RED|贴片LED|DS1, DS2, DS3|LED 0805R|LED-SMD|3
+26|E22-400T2S||E1|PE22-400T22S|E22-400T2S|1
+27|HR911105A|带灯以太网接口|ENET1|RJ-45A12|HR911105A|1
+28|I.MX6UL_CORE|I.MX6UL核心板|I.MX1|I.MX6UL_CORE|I.MX6UL核心板|1
+29|JTAG||JTAG|JTAG_20|JTAG|1
+30|BUTTON||K1|BTN8.5*8.5|BUTTON|1
+31|KEY1X3||K2|PKEY|PKEY|1
+32|KEY|按键|KEY1, KEY2, RETSET|TSW DIP-6*6*5 - 2|KEY|3
+33|4.7uH|功率屏蔽电感|L1, L2|L-SMD-0420|L-CDRH|2
+34|2.2uH|Inductor|L3|CD74 电感   7*7*4mm贴片|Inductor|1
+35|120R,2.0A|小功率贴片电感磁珠|L4|L 0603|L|1
+36|Header 24X2|Header, 24-Pin, Dual row|P2|HDR2X24|Header 24X2|1
+37|S8550|高频放大-PNP型|Q1|SOT23-3L|8550-SMD|1
+38|100R||R1, R2|R_0603P|R|2
+39|R*4_0603_2||R3|R*4-0603|R*4_0603_2|1
+40|0R||R4, R5, R63|R_0603P|R|3
+41|4K7||R6, R7, R8, R9, R13, R14, R15, R16, R18, R20|R_0603P|R|10
+42|10K||R10, R12, R34, R43, R52, R54, R62, R65, R69, R72, R73|R_0603P|R|11
+43|10K||R11|R*4-0603|R*4_0603_2|1
+44|NC||R17, R19, R36, R53, R55, R56, R57, R58, R59, R60, R61, R64, R66, R67, R68, R70, R71|R_0603P|R|17
+45|1K||R21, R22, R23, R37, R39, R44, R45, R50, R80|R_0603P|R|9
+46|84.5k||R24|R_0603P|R|1
+47|49.9k||R25|R_0603P|R|1
+48|100K||R26, R32, R35|R_0603P|R|3
+49|15K||R27, R28|R_0603P|R|2
+50|200R||R29|R_0603P|R|1
+51|5R||R30|R_0805|R|1
+52|270K||R31|R_0603P|R|1
+53|6K8||R33|R_0603P|R|1
+54|49.9R||R38, R40, R41, R42|R_0603P|R|4
+55|12.1K||R46|R_0603P|R|1
+56|510R||R47, R48, R49|R_0603P|R|3
+57|120R||R51|R_0603P|R|1
+58|RGBLCD|FPC-40P-0.5mm|RGBLCD1|FPC0.5-TOP40P|FPC-40|1
+59|ANT||SAM1|SMA-KE|SAM-DIP 天线座|1
+60|SDIO WIFI|Header, 6-Pin, Dual row|SDIO_WIFI|HDR2X6|Header 6X2|1
+61|Micro SD|Micro SD卡|TF_CARD1|Micro SD|Micro SD|1
+62|DC JW5060T_6|DC降压芯片|U1, U2|SOT23-6N|DC JW5060T_6|2
+63|CS5080|5V输入8V4输出充电器IC|U3|ESOP8   IP5306|CS5080 5V输入8V4输出充电器IC|1
+64|18650||U4|18650 2节电池座 PCB插脚|18650 2节电池座 PCB插脚|1
+65|LAN8720A|ETH PHY|U5|QFN24|LAN8720|1
+66|CH340C|USB2UART|U6|SOP16_N|CH340G|1
+67|XC6206|LDO|U7|SOT23-3N|LDO XC6206|1
+68|SGM3157|单路双掷模拟开关|U8, U9, U12, U13, U14|SOT363-6L|SGM3157|5
+69|TJA1050||U10|SOP8_N|SN65HVD230D|1
+70|AP3216C|ALS+PS Sensor|U11|QFN8|AP3216C|1
+71|Header2X2|2*2P接插件|USART1|HDR-2X2|Header 2X2|1
+72|USB|USB-A型母接口|USB_HOST1, USB_HOST2|USB-A/S_E|USB-A/S|2
+73|USB-5P|微型USB母座|USB_OTG1, USB_TTL1|USB-MINI-A|USB-5P|2
+74|XC6206P||X1|XC6206P332  SOT-23  LDO电源稳压IC|XC6206P-332 稳压LDO芯片|1

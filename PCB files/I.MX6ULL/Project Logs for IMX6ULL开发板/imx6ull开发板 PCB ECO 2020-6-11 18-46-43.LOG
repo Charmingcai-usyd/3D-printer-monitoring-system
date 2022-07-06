@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=DC_IN1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=DC_IN1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=DC_IN1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=DC_IN1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=DC_IN1-1
+Removed Pin From Net: NetName=GND Pin=DC_IN1-2
+Removed Pin From Net: NetName=GND Pin=DC_IN1-2
+Removed Pin From Net: NetName=GND Pin=DC_IN1-2
+Removed Pin From Net: NetName=GND Pin=DC_IN1-2
+Removed Pin From Net: NetName=GND Pin=DC_IN1-2
+Removed Pin From Net: NetName=GND Pin=DC_IN1-3
+Removed Pin From Net: NetName=GND Pin=DC_IN1-3
+Removed Pin From Net: NetName=GND Pin=DC_IN1-3
+Removed Pin From Net: NetName=GND Pin=DC_IN1-3
+Removed Pin From Net: NetName=GND Pin=DC_IN1-3
+Removed Member From Class: ClassName=POWER Member=DC_IN1
+Added Component: Designator=U?(DC10BÖ±²åµçÔ´×ù)
+Added Pin To Net: NetName=NetD1_1 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Member To Class: ClassName=POWER Member=Component U? POWER

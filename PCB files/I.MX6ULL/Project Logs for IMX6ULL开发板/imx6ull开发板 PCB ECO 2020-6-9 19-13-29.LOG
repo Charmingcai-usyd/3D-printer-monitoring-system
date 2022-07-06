@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=USDHC1_DATA0 Pin=R3-1
+Removed Pin From Net: NetName=NetI.MX1_J1_49 Pin=R3-2
+Removed Pin From Net: NetName=USDHC1_DATA1 Pin=R3-3
+Removed Pin From Net: NetName=NetI.MX1_J1_50 Pin=R3-4
+Removed Pin From Net: NetName=USDHC1_DATA3 Pin=R3-5
+Removed Pin From Net: NetName=NetI.MX1_J1_51 Pin=R3-6
+Removed Pin From Net: NetName=USDHC1_DATA2 Pin=R3-7
+Removed Pin From Net: NetName=NetI.MX1_J1_52 Pin=R3-8
+Added Pin To Net: NetName=NetI.MX1_J1_52 Pin=R3-1
+Added Pin To Net: NetName=USDHC1_DATA2 Pin=R3-2
+Added Pin To Net: NetName=NetI.MX1_J1_51 Pin=R3-3
+Added Pin To Net: NetName=USDHC1_DATA3 Pin=R3-4
+Added Pin To Net: NetName=NetI.MX1_J1_50 Pin=R3-5
+Added Pin To Net: NetName=USDHC1_DATA1 Pin=R3-6
+Added Pin To Net: NetName=NetI.MX1_J1_49 Pin=R3-7
+Added Pin To Net: NetName=USDHC1_DATA0 Pin=R3-8
+Added Room: Name=CONNECT
